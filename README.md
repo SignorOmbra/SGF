@@ -1,0 +1,2 @@
+# SGF
+Terrible game framework
